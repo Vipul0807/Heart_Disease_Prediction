@@ -1,7 +1,7 @@
 # Heart_Disease_Prediction
 This database contains 76 attributes, but all published experiments refer to using a subset of 14 of them. In particular, the Cleveland database is the only one that has been used by ML researchers to this date. The "goal" field refers to the presence of heart disease in the patient. It is integer valued from 0 (no presence) to 4.
 
-Attribute Information:
+#Attribute Information:
 
 1. age
 
@@ -30,3 +30,19 @@ Attribute Information:
 13. thal: 3 = normal; 6 = fixed defect; 7 = reversable defect
 
 14. target: 0 = absence ; 1 = presence
+
+#We will create a model with the following steps: 
+
+● Import the relevant packages 
+
+● Download and explore the dataset 
+
+● Prepare the dataset for training 
+
+● Use any prediction algorithm based upon the EDA 
+
+● Train the model to fit the data 
+
+● Make predictions using the trained model 
+
+● Create a test case and generate a predicted result from the system
